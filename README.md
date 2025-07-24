@@ -20,6 +20,21 @@ You can expect this!
 
 Please read [the wiki](https://github.com/franciskafieh/obsidian-list-modified/wiki).
 
+You may use this as a template
+```code
+## Created
+%% LIST CREATED %%
+%% END%%
+## Modified
+
+%% LIST MODIFIED %%
+%% END %%
+## Deleted
+
+%% LIST DELETED %%
+%% END %%
+```
+
 ## Contributing
 
 Read [the CONTRIBUTING.md file](CONTRIBUTING.md) for build and dev instructions.
